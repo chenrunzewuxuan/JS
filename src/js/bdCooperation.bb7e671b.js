@@ -1,0 +1,1 @@
+webpackJsonp([32],[function(t,o,e){var n=e(1),a=e(4);n(function(){n(".pg-request").click(function(){console.log("a");var t=n(this),o=t.data("request"),e=t.text();a.PopOut.alert([e,n("#"+o)],2,{position:"absolute"})})})}]);

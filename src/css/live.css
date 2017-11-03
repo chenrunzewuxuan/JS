@@ -1,0 +1,123 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.left{
+	float: left;
+}
+.right{
+	font: right;
+}
+nav{
+	/*position: relative;*/
+    height: 662px;
+	/*border:1px solid red;*/
+	background-size: cover;
+    background-position: center;
+	background-image: url(https://b-ssl.duitang.com/uploads/people/201608/18/20160818104645_f5QSv.png);
+}
+#live{
+	width: 100%;
+	height: 64px;
+	padding: 0.1px;
+	background: rgba(255,255,255,.8);
+	/*border:1px solid red;*/
+}
+#pgoto{
+	width: 1343px;
+	height: 667px;
+}
+#liv{
+	margin: 10px auto;
+	height: 64px;
+	width: 1300px;
+	/*background: rgba(255,255,255,.9);*/
+	/*margin-top: 20px;*/
+}
+#shou{
+	background: url(https://b-ssl.duitang.com/uploads/files/201312/24/20131224171644_TXGCC.png);
+    width: 80px;
+    height: 36px;
+    float: left;
+    margin-left: 92px;
+    overflow: hidden;
+    /*background-color: #cee3f2;*/
+
+}
+.btn{
+	/*border:1px solid red;*/
+	float: right;
+}
+.btn #btn1{
+	float: left;
+	height: 26px;
+	width: 64px;
+	background-color: #f46;
+	border:none;
+
+}
+.btn #btn2{
+	float: left;
+	margin-left:30px;
+	height: 26px;
+	width: 64px;
+	border:none;
+	background: none;
+}
+}
+nav img{
+	height: 44px;
+	width: 260px;
+}
+#mid{
+	height:909px;
+
+}
+.content1 .content{
+	width: 100%;
+    height: 0;
+    padding-bottom: 67.167%;
+    background: url(https://b-ssl.duitang.com/uploads/people/201608/18/20160818104653_VsaUu.png) no-repeat;
+    background-size: 100% 100%;
+
+
+}
+.content1{
+	
+	    display: inline-block;
+
+    width: 50%;
+    /*max-width: 798px;*/
+    padding-right: 353px;
+    position: relative;
+    margin-left: 100px;
+    margin-top:-250px;
+}
+.contentRight{
+	    position: absolute;
+    top: 45%;
+    right: 0;
+    margin-top: -151px;
+}
+.content1 .pg-content{
+	text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 2;
+    color: #000;
+}
+.content2{
+	height: 662px;
+	    display: table-cell;
+    vertical-align: middle;
+}
+.content2 .content{
+	width: 100%;
+    height: 0;
+    padding-bottom: 122.68%;
+    background: url(https://b-ssl.duitang.com/uploads/people/201608/18/20160818104651_nRwPk.png) no-repeat;
+    background-size: 100% 100%;
+    border: 1px solid red;
+}
+
+

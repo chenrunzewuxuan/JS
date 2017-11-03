@@ -1,0 +1,27 @@
+#live{
+	width: 1343px;
+	height: 100%;
+	color: rgba(255,255,255,.85);
+}
+#pgoto{
+	width: 1343px;
+	height: 667px;
+}
+#liv{
+	height: 64px;
+	width: 1343px;
+	background: rgba(255,255,255,.9);
+	margin-top: 20px;
+}
+#shou{
+	background: url(https://b-ssl.duitang.com/uploads/files/201312/24/20131224171644_TXGCC.png);
+    width: 80px;
+    height: 36px;
+    float: left;
+    margin-left: 92px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+#liv a{
+	margin-top: 20px;
+}
